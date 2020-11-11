@@ -11,7 +11,10 @@
       </div>
 
       <v-spacer></v-spacer>
-
+      <v-avatar color="grey lighten-2">
+        <v-icon>mdi-upload</v-icon>
+      </v-avatar>
+      <v-spacer></v-spacer>
       <v-btn depressed color="error">
         Iniciar sesión
       </v-btn>
