@@ -57,7 +57,7 @@
     -->
 
     <v-row justify="center" align="center">
-      <v-col col="10" xs="10" sm="6" md="4" lg="4">
+      <v-col col="10" xs="10" sm="6" md="3" lg="3">
         <div>
           <strong>@JaimeChereau</strong> <small>Comentarios comentarios</small>
         </div>
@@ -98,7 +98,7 @@
     </v-row>
 
     <v-row justify="center" align="center">
-      <v-col col="10" xs="10" sm="6" md="4" lg="4">
+      <v-col col="10" xs="10" sm="6" md="3" lg="3">
         <div>
           <strong>@JaimeChereau</strong> <small>Comentarios comentarios</small>
         </div>
